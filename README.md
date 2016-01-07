@@ -10,17 +10,10 @@ input that could be through camera or from local hard disk of the computer. The 
 an activity to play and learn with images.Gives a user an ability to take a real time photo through webcam and start processing 
 on it. 
 
-It covers most of the filtering options one can apply to an image like making an image black and white , making a mirror 
-image of the original , invert , solarize and many more options. This activity also provides a user to watermark an image over 
-another using different styles like "tile", etc. And one can also write and watermark a text over the image in some places and 
-can make it bold by reclicking the same text at same position. This activity provides a user to save an intermediate image that 
-can be reused,if latter image finds an error. The Image processor activity also has features one would expect of a standard 
-image viewer, like zoom, rotate etc.
-
 Licensed under the GNU General Public Licence
 
-Tasks Application can perform
------------------------------
+Tasks
+-----
 1. Take pictures from webcam and start processing it.
 2. Covers most of the filtering options one can apply to an image - 
 3. Invert an image , mirror image , blur , solarize and many more filtering options.
