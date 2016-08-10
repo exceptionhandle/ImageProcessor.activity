@@ -28,5 +28,5 @@ Tasks
 
 ![alt tag](https://raw.githubusercontent.com/exceptionhandle/ImageProcessor.activity/master/img1.png)
 
-![alt tag](https://raw.githubusercontent.com/exceptionhandle/ImageProcessor.activity/master/"Screen Shot 2016-08-10 at 6.35.24 PM.png")
+![alt tag](https://github.com/exceptionhandle/ImageProcessor.activity/blob/master/Screen%20Shot%202016-08-10%20at%206.35.24%20PM.png)
 
